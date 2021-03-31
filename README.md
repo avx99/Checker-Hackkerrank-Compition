@@ -28,3 +28,13 @@ To visualize the problem, we represent the area as a matrix with a dimension of 
   - If the type of the water sprinkler is A, we will have only 1.
   - If it’s B, we will have 1,1.
   - If it’s C, we will have 1,1,1.
+
+##Input Format
+
+- Argument 1: list of the number of sprinklers in every row (the length of this list is n).
+- Argument 2: list of the number of sprinklers in every column (the length of this list is p):
+
+```
+1 3 1 0 4 1
+4 0 1 3 1 1
+```
