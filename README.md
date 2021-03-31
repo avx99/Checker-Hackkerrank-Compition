@@ -46,7 +46,7 @@ To visualize the problem, we represent the area as a matrix with a dimension of 
 - 0 < n < 500
 - 0 < p < 500
 
-##Output Format
+## Output Format
 
 - Matrix of 0 and 1 describes a good distribution of water sprinklers (the dimension of this matrix is (n,p)):
 
