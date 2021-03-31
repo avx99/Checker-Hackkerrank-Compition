@@ -45,3 +45,19 @@ To visualize the problem, we represent the area as a matrix with a dimension of 
 - At least one horizontal or vertical cell separates two water sprinklers, a water sprinklers should be surrounded by the ground (that’s mean a water sprinklers should be surrounded by the ground).
 - 0 < n < 500
 - 0 < p < 500
+
+##Output Format
+
+- Matrix of 0 and 1 describes a good distribution of water sprinklers (the dimension of this matrix is (n,p)):
+
+```
+1 0 0 0 0 0
+1 0 0 1 0 1
+0 0 0 1 0 0
+0 0 0 0 0 0
+1 0 1 1 1 0
+1 0 0 0 0 0
+```
+
+![1](https://user-images.githubusercontent.com/14127561/113225174-47f1b900-928d-11eb-8169-5a52dc68b872.PNG)
+![2](https://user-images.githubusercontent.com/14127561/113225178-4aeca980-928d-11eb-9a61-5e25f9bad4d4.PNG)
