@@ -25,6 +25,6 @@ To visualize the problem, we represent the area as a matrix with a dimension of 
 
 - 0 refers to the ground.
 - 1 refers to a sprinkler:
-                          If the type of the water sprinkler is A, we will have only 1.
-                          If it’s B, we will have 1,1.
-                          If it’s C, we will have 1,1,1.
+                         - - If the type of the water sprinkler is A, we will have only 1.
+                         - - If it’s B, we will have 1,1.
+                         - - If it’s C, we will have 1,1,1.
