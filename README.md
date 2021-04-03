@@ -17,6 +17,7 @@ Mustapha wants to water his land using water sprinklers, he went to the market t
 - the type A: this type has one sprinkler
 - the type B: this type has two sprinklers
 - the type C: this type has three sprinklers
+
 The farmer found a lot of problems to distribute those water sprinklers because he has a lot of areas with different shapes.
 He decided to solve those issues using programming and he wants your helps, then he sent you a brief description of the problem:
 
